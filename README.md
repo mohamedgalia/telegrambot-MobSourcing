@@ -10,7 +10,7 @@ bot for recruitment people for doing events
 
 ## Screenshots
 
-![SCREESHOT DECSRIPTION](screenshots/1.png)
+/home/gazal/Downloads/1.png
 ![SCREESHOT DECSRIPTION](screenshots/2.png)
 ![SCREESHOT DECSRIPTION](screenshots/3.png)
 ![SCREESHOT DECSRIPTION](screenshots/4.png)
