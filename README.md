@@ -10,8 +10,8 @@ bot for recruitment people for doing events
 
 ## Screenshots
 
-![1](https://user-images.githubusercontent.com/48689046/67978685-59134200-fc23-11e9-8c42-942afd1cc456.png)
 ![2](https://user-images.githubusercontent.com/48689046/67978683-59134200-fc23-11e9-8370-1a4c89b20e0c.png)
+![1](https://user-images.githubusercontent.com/48689046/67978685-59134200-fc23-11e9-8c42-942afd1cc456.png)
 ![3](https://user-images.githubusercontent.com/48689046/67978729-6b8d7b80-fc23-11e9-99f8-0ccda6da7526.png)
 ![4](https://user-images.githubusercontent.com/48689046/67978732-6cbea880-fc23-11e9-9819-28f4645cf5ac.png)
 ![5](https://user-images.githubusercontent.com/48689046/67978741-70eac600-fc23-11e9-9e4e-23a5b433699c.png)
