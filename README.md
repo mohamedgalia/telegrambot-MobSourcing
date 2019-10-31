@@ -10,17 +10,17 @@ bot for recruitment people for doing events
 
 ## Screenshots
 
-![1](https://user-images.githubusercontent.com/48689046/67978476-db4f3680-fc22-11e9-80e6-8d07295fbcad.png)
-![SCREESHOT DECSRIPTION](screenshots/2.png)
-![SCREESHOT DECSRIPTION](screenshots/3.png)
-![SCREESHOT DECSRIPTION](screenshots/4.png)
-![SCREESHOT DECSRIPTION](screenshots/5.png)
-![SCREESHOT DECSRIPTION](screenshots/6.png)
-![SCREESHOT DECSRIPTION](screenshots/7.png)
-![SCREESHOT DECSRIPTION](screenshots/8.png)
-![SCREESHOT DECSRIPTION](screenshots/9.png)
-![SCREESHOT DECSRIPTION](screenshots/10.png)
-![SCREESHOT DECSRIPTION](screenshots/11.png)
+![1](https://user-images.githubusercontent.com/48689046/67978685-59134200-fc23-11e9-8c42-942afd1cc456.png)
+![2](https://user-images.githubusercontent.com/48689046/67978683-59134200-fc23-11e9-8370-1a4c89b20e0c.png)
+![3](https://user-images.githubusercontent.com/48689046/67978729-6b8d7b80-fc23-11e9-99f8-0ccda6da7526.png)
+![4](https://user-images.githubusercontent.com/48689046/67978732-6cbea880-fc23-11e9-9819-28f4645cf5ac.png)
+![5](https://user-images.githubusercontent.com/48689046/67978741-70eac600-fc23-11e9-9e4e-23a5b433699c.png)
+![6](https://user-images.githubusercontent.com/48689046/67978743-72b48980-fc23-11e9-876b-fe73865f137b.png)
+![7](https://user-images.githubusercontent.com/48689046/67978748-75af7a00-fc23-11e9-9b7a-2a8e976c698a.png)
+![8](https://user-images.githubusercontent.com/48689046/67978753-77793d80-fc23-11e9-93c7-bd940a5a03ab.png)
+![9](https://user-images.githubusercontent.com/48689046/67978756-78aa6a80-fc23-11e9-8c21-c06d60ad9ac4.png)
+![10](https://user-images.githubusercontent.com/48689046/67978760-79430100-fc23-11e9-9648-f2e27f93d690.png)
+![11](https://user-images.githubusercontent.com/48689046/67978762-7b0cc480-fc23-11e9-845d-6e53d7f65ee1.png)
 
 ## How to Run This Bot
 ### Prerequisites
