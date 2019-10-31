@@ -10,7 +10,7 @@ bot for recruitment people for doing events
 
 ## Screenshots
 
-![Uploading 1.png…]()
+![1](https://user-images.githubusercontent.com/48689046/67978476-db4f3680-fc22-11e9-80e6-8d07295fbcad.png)
 ![SCREESHOT DECSRIPTION](screenshots/2.png)
 ![SCREESHOT DECSRIPTION](screenshots/3.png)
 ![SCREESHOT DECSRIPTION](screenshots/4.png)
